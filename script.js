@@ -1,4 +1,4 @@
-const backendURL = "https://army-division-backend.onrender.com";
+const backendURL = "https://army-division-backend.onrender.com/";
 
 document.querySelector(".login-container").addEventListener("submit", async (e) => {
   e.preventDefault();
